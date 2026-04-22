@@ -11,6 +11,6 @@ New font, background color, buttons and auto opening fastfetch
 ### Quick start
 Paste this into your terminal:
 ```bash
-curl -sL https://githubusercontent.com -o setup.sh && chmod +x setup.sh && ./setup.sh
+curl -sL https://github.com/webe132/FancyTermux/raw/refs/heads/main/setup.sh -o setup.sh && chmod +x setup.sh && ./setup.sh
 ```
 
