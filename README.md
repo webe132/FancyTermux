@@ -14,15 +14,3 @@ Paste this into your terminal:
 curl -sL https://githubusercontent.com -o setup.sh && chmod +x setup.sh && ./setup.sh
 ```
 
----
-
-### Что это? (RU)
-**FancyTermux** - скрипт для тех, кому лень настраивать термукс руками. Автоматом ставит нормальные шрифты, цвета и интерфейс в один клик.
-
-### Как запустить:
-```bash
-curl -sL https://githubusercontent.com -o setup.sh && chmod +x setup.sh && ./setup.sh
-```
-
----
-
